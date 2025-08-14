@@ -77,10 +77,3 @@ Each file represents weather metrics for an Indian city. Key columns include:
 - **Yearly Precipitation Trend:** Measure total annual rainfall using `rain` and `precipitation` to track wet/dry year patterns.
 
 ---
-
-## 📈 Dashboard's
-
-Below is a preview of our interactive weather analytics dashboard:
-
-![Dashboard - Page 1](dashboard/page1.jpg)
-![Dashboard - Page 2](dashboard/page2.jpg)
